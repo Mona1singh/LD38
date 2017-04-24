@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b26c7ded7fa8d664f9e572b0d6f28da7
+timeCreated: 1492888343
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KG She Persisted
+  fontNames:
+  - KG She Persisted
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
